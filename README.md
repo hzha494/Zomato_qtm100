@@ -35,6 +35,12 @@ Our results look at how restaurants are perceived by the public by looking at re
 
 If we were to re-explore this topic, perhaps a more extensive sample size or more time to delve deeper into the facets of our data set would have allowed us to pull more conclusions. We could have explored cuisine type and location as factors that influence the ways in which a restaurant is regarded. Perhaps it would be possible to statistically discern what makes up a quality restaurant.
 
+## Methods
+Data Visualization, Hypothesis Testing, OLS regression
+
+## Technologies
+R, R Markdown, HTML
+
 ## Contacts
 For contacts you may want to contact me first by emailing my school email: hzha494@emory.edu.
 
