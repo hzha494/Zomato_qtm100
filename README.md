@@ -1,7 +1,13 @@
 # What are Factors that Affect Restaurant Ratings?
 ## A QTM100 Course Final Project
 
-This is a final project for QTM100, in which we discovered several associations between different factors regarding Restaurant Ratings in the Zomato data set. In this project, I collaborated with three other teammates: Katie Silver, Zoe Howard-Barr and Arin Nelson. We were able to investigate three core research questions, which would be illustrated more in detail below.
+## Introduction
+This is a final project for QTM100, in which we discovered several associations between different factors regarding Restaurant Ratings in the Zomato data set. In this project. We were able to investigate three core research questions, which would be illustrated more in detail below.
+
+## Collaboration
+Katie Silver, Emory University 26'
+Zoe Howard-Barr, Emory University 26'
+Arin Nelson, Emory University 26'
 
 ## Research Question 1
 Table bookings have increased in popularity, as more restaurants offer this option through a number of online reservation apps as well as calling the restaurant. Using the Zomato Restaurants dataset, our research focuses on restaurant rating text in the context of the table booking opportunity.
